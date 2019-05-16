@@ -2,11 +2,11 @@ package com.nnxy.mby;
 /*
  * @author mobiyou 
  * create date : 2019/5/16
- * description :学生的实体类
+ * description :脩搂脡煤碌脛脢碌脤氓脌脿
  */
 public class Student {
 
-	private int id;
+	private int id;//鍞竴ID
 
 	@Override
 	public String toString() {
